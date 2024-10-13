@@ -30,5 +30,7 @@ public class _03_EkranKaydet extends Basedriver {
            // ekran kaydini Dosya formati olarak
 
         }
+
+        BekleKapat();
     }
 }
